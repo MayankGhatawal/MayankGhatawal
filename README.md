@@ -1,6 +1,6 @@
 # Flutter Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MayankGhatawal-blue)](https://www.linkedin.com/in/mayank-ghatawal-126885222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayankghatawal-blue)](https://www.linkedin.com/in/mayank-ghatawal-126885222/)
 [![GitHub](https://img.shields.io/badge/GitHub-MayankGhatawal-green)](https://github.com/MayankGhatawal)
 
 Welcome to my Flutter development repository! I'm passionate about creating cross-platform mobile applications that deliver a seamless and delightful user experience. Below, you'll find an overview of my skills, projects, and contributions.
