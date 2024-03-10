@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MayankGhatawal
 - 👀 I’m interested in @Programming
-- 🌱 I’m currently @Data Structure and Algorithm's
+- 🌱 I’m currently learning @Data Structure and Algorithm's
 - 💞️ I’m looking to collaborate on @Google
-- 📫 How to reach me By Social Media
 - 😄 Pronouns: JOCKER_DADA
 - ⚡ Fun fact: It's My Nickname
 
