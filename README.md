@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Ghatawal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankghatawal&label=Profile%20views&color=0e75b6&style=flat" alt="mayankghatawal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal" alt="mayankghatawal" /></a> </p>
 
@@ -7,9 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-kappa-36.vercel.app/](https://portfolio-five-kappa-36.vercel.app/)
 
-- 💬 Ask me about **React.js, Express.js, JavaScript, TypeScript, Python, Next.js**
+- 💬 Ask me about **MERN, MEAN**
 
 - 📫 How to reach me **mayank1ghatawal@gmail.com**
+
+- ⚡ Fun fact **I'm eSports Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
