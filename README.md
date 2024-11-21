@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Ghatawal</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&random=true&width=435&lines=A+passionate+Full+Stack+Developer;A+passionate+A.I.+Engineer;A+passionate+Mobile+Developer" alt="Typing SVG" /></a>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&random=true&width=435&lines=A+passionate+Full+Stack+Developer;A+passionate+A.I.+Engineer;A+passionate+Mobile+Developer" alt="Typing SVG" /></a>
+</p>
 
 
 <img height=400 width=1600 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
