@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal" alt="mayankghatawal" /></a> </p>
 
+<div style="display: flex;>
+  <p>
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-kappa-36.vercel.app/](https://portfolio-five-kappa-36.vercel.app/)
@@ -18,8 +20,10 @@
 - 📫 How to reach me **mayank1ghatawal@gmail.com**
 
 - ⚡ Fun fact **I'm eSports Player**
-
+</p>
 <img width=200 border="rounded" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mayankghatawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankghatawal" height="30" width="40" /></a>
