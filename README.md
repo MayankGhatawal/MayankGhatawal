@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankghatawal&label=Profile%20views&color=0e75b6&style=flat" alt="mayankghatawal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal" alt="mayankghatawal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal&theme=darkhub" alt="mayankghatawal" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
