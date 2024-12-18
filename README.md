@@ -34,10 +34,4 @@
 
 [![Mayank's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MayankGhatawal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankghatawal&show_icons=true&locale=en&layout=compact" alt="mayankghatawal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankghatawal&show_icons=true&locale=en" alt="mayankghatawal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankghatawal" alt="mayankghatawal" /></p>
-
 </div>
