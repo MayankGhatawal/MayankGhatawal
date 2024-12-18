@@ -32,7 +32,7 @@
 
 <div style="display: flex; flex-direction: row;">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mayank's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MayankGhatawal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankghatawal&show_icons=true&locale=en&layout=compact" alt="mayankghatawal" /></p>
 
