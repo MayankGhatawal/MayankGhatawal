@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-kappa-36.vercel.app/](https://portfolio-five-kappa-36.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mayank-ghatawal-portfolio.vercel.app/](https://mayank-ghatawal-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN, MEAN**
 
