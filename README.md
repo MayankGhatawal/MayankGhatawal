@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal&theme=darkhub" alt="mayankghatawal" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://mayank-ghatawal-portfolio.vercel.app/](https://mayank-ghatawal-portfolio.vercel.app/)
 
