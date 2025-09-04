@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://mayank-ghatawal-portfolio.vercel.app/](https://mayank-ghatawal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mayank-portfolio-cyan.vercel.app](https://mayank-portfolio-cyan.vercel.app/)
 
 - 💬 Ask me about **MERN, MEAN**
 
