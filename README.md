@@ -5,7 +5,7 @@
 
 <img height=400 width=1600 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal&row=2&theme=algolia" alt="mayankghatawal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal&row=1&theme=algolia" alt="mayankghatawal" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
