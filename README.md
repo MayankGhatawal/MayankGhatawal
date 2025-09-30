@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankghatawal&no-frame=true&row=1&theme=algolia" alt="mayankghatawal" /></a> </p>
 
-- 🌱 I’m currently learning **Binary Search**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://mayank-portfolio-cyan.vercel.app](https://mayank-portfolio-cyan.vercel.app/)
 
