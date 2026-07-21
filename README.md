@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayank-ghatawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mayank-ghatawal-88a241390"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mayank1ghatawal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -126,12 +126,12 @@ SDE Intern (Backend)                  Bluestock Finetech              Nov 2024 �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank-ghatawal&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-ghatawal&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankGhatawal&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankGhatawal&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-ghatawal&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGhatawal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -139,8 +139,8 @@ SDE Intern (Backend)                  Bluestock Finetech              Nov 2024 �
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayank-ghatawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mayank-ghatawal-88a241390"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mayank1ghatawal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/mayank-ghatawal">Mayank Ghatawal</a></p>
+<p align="center">⭐️ From <a href="https://github.com/MayankGhatawal">Mayank Ghatawal</a></p>
